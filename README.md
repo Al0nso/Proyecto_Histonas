@@ -1,2 +1,2 @@
-# Proyecto_Histonas
-Proyecto final de Genómica Computacional sobre comparación de histonas en mamíferos
+# Histonas en mamóferos
+Proyecto final de Genómica Computacional sobre la comparación de las secuencias de aminoácidos entre las secuencias de la histona H3 canónica y su variante CENPA.
